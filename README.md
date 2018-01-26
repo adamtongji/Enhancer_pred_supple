@@ -5,7 +5,7 @@ This folder includes supplements codes for "Comparative and Differential Analysi
 Contains scripts to plot main and supplement figures.
 
 ### 2. Uniform pipeline
-Contains scripts to perform uniform pipelin(Fig. S1) on different algorithm.
+Contains scripts to perform uniform pipeline(Fig. S1) on different algorithm.
 
 ### 3. Processing code
 Contains other scripts to get count, length, consistency, PR-AUC and other metrics.
