@@ -1,0 +1,3 @@
+[submodule "Diff_signal_predict"]
+	path = Diff_signal_predict
+	url = https://github.com/adamtongji/Diff_signal_predict
