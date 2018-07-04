@@ -1,5 +1,5 @@
 # Enhancer_pred_supple
-This folder includes supplements codes for "Comparative and Differential Analysis of Chromatin Accessibility and Histone Modifications for Predicting Mouse Developmental Enhancers, Fu et al."
+This folder includes supplements codes for "Differential Analysis of Chromatin Accessibility and Histone Modifications for Predicting Mouse Developmental Enhancers, Fu et al.", which is under revision now.
 
 ### 1. Figure script
 Contains scripts to plot main and supplement figures.
