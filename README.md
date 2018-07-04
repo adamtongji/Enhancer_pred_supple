@@ -9,3 +9,6 @@ Contains scripts to perform uniform pipeline(Fig. S1) on different algorithm.
 
 ### 3. Processing code
 Contains other scripts to get count, length, consistency, PR-AUC and other metrics.
+
+### 4. Diff signal predict
+Contains a pipeline for differential signal enhancer prediction with H3K27ac ChIP-seq and DNase-seq data.
